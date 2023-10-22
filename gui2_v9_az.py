@@ -15,9 +15,9 @@ from add_ontology_to_fasta import add_ontology_to_fasta
 from add_ontology_to_sam import add_ontology_to_sam
 from add_ontology_to_gff3 import add_ontology_to_gff3
 from add_ontology_to_vcf import add_ontology_to_vcf
-#from backup_file import backup_file
-#from ontology_selected_full_file import ontology_selected_full_file
-#from get_xml_path_from_selected_file import get_xml_path_from_selected_file
+from backup_file import backup_file
+from ontology_selected_full_file import ontology_selected_full_file
+from get_xml_path_from_selected_file import get_xml_path_from_selected_file
 
 file_path = None
 select_file_path = None
